@@ -12,6 +12,7 @@
   </div>
   <body>
     <div>powered by magic world</div>
+    <div>This is a git</div>
   </body>
 </body>
 </html>
