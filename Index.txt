@@ -11,7 +11,7 @@
     <h1 style="height:10px ;color: darkred;">This is my first HTML project  </h1>
   </div>
   <body>
-    <div>powered by magic world</div>
+    <div>I am using Github </div>
     <div>This is a git</div>
   </body>
 </body>
